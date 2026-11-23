@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "folderId": "root",
+  "intervalSeconds": 0.5,
+  "zoom": 1.0,
+  "captureSingleShot": false,
+  "analysisLatestOnly": false,
+  "analysisAutoEnabled": false,
+  "analysisModel": "gpt-6.2-astra",
+  "analysisEffort": "medium",
+  "analysisPrompt": "Descreva o conteúdo visível na imagem. Transcreva o texto legível e indique os trechos que não conseguiu ler.",
+  "batchPrompt": "Descreva as imagens do lote em ordem e preserve as transcrições legíveis.",
+  "consolidationPrompt": "Reúna as descrições e transcrições dos relatórios, preservando os detalhes e sinalizando trechos ilegíveis."
+}
