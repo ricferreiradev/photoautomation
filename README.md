@@ -4,7 +4,9 @@ PhotoAutomation é um app Android para controlar a captura de fotos em um ou doi
 
 ## Download
 
-[Baixar PhotoAutomation 0.26.0 para Android](resources/photoautomation-0.26.0.apk) · [Checksum SHA-256](resources/photoautomation-0.26.0.apk.sha256)
+[Baixar PhotoAutomation para Android na página de Releases](https://github.com/ricferreiradev/photoautomation/releases)
+
+Abra a versão desejada e baixe o APK e o arquivo de verificação SHA-256 na seção **Assets**.
 
 Requer Android 8.0 ou superior, Google Play Services, uma conta Google autorizada e câmera traseira no aparelho que fotografa. Abra o APK no Android e permita a instalação pela fonte usada para abri-lo, se o sistema solicitar.
 
